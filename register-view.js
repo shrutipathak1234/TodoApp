@@ -19,7 +19,7 @@ const RegisterView = ({navigation}) => {
             <TextInput maxLength={6} style={styles.input} keyboardType={'default'} secureTextEntry placeholderTextColor={'black'}
                        placeholder={'Confirm Password'}/>
             <TouchableOpacity style={styles.RegistrationButton} onPress={() => navigation.navigate('Home')}>
-                <Text style={styles.btnText} onPress={()=>clearEntry}>Register</Text>
+                <Text style={styles.btnText} >Register</Text>
             </TouchableOpacity>
             <Text style={{color: 'blue', margin: 5}} onPress={() => navigation.navigate('MyApp')}>Already have an
                 account? Login here</Text>

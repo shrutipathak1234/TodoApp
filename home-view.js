@@ -15,8 +15,6 @@ const initialNoteState = {
 }
 const initialEditingId = -1;
 const initialText = '';
-const completed = 'Completed';
-const notCompleted = 'Not Completed';
 
 const HomeView = () => {
     const [text, setText] = useState(initialText);
@@ -93,8 +91,8 @@ const HomeView = () => {
                 borderRadius: 5,
                 borderWidth: 1,
             }}/>
-            <TouchableOpacity onPress={editingId !== initialEditingId ? editNote : addNote} style={styles.userButton}><Text
-                style={styles.btnText}>{editingId !== initialEditingId ? 'Update' : 'Add'} Task</Text></TouchableOpacity>
+            <TouchableOpacity onPress={editingId !== initialEditingId ? editNote : addNote} style={styles.userButton}>
+                <Text style={styles.btnText}>{editingId !== initialEditingId ? 'Update' : 'Add'} Task</Text></TouchableOpacity>
             {
                 (notes.length == 0) ? <Text style={{
                         fontWeight: 'bold',
@@ -107,13 +105,6 @@ const HomeView = () => {
                         data={notes}
                         renderItem={({item}) => {
                             return <View style={styles.listView}>
-                                {/*<View style={{height:20, width:30,left:40 , borderRadius:5}}>*/}
-                                {/*    <TouchableOpacity><Text style={{fontWeight:'bold',textAlign:'center',borderWidth:2,borderColor:'black',backgroundColor:'lightgrey', color:'black', padding:1,paddingLeft:1, paddingRight:2}}>↑</Text></TouchableOpacity>*/}
-                                {/*    <TouchableOpacity><Text style={{fontWeight:'bold',borderWidth:2,textAlign:'center',  top:-19,left:40,backgroundColor:'lightgrey', color:'black'}}>↓</Text></TouchableOpacity>*/}
-                                {/*</View>*/}
-                                {/*<View style={{height:20, width:75,right:20,top:-85, backgroundColor:'lightgrey' , borderRadius:5}}>*/}
-                                {/*    <Text style={{textAlign:'center', color:'black', top:-75}}>Sort by Date:</Text>*/}
-                                {/*</View>*/}
                                 <TouchableOpacity style={{width: 40, height: 40, position: 'absolute', zIndex: 100,}}
                                                   onPress={() => startEditingNote(item)}>
                                     <Image style={{height: '50%', width: '50%', top: -45, right: -270}}
@@ -121,7 +112,7 @@ const HomeView = () => {
                                 </TouchableOpacity>
 
                                 <View>
-                                    <Text style={styles.text}>Task : {item.text}</Text>
+                                    <Text style={styles.text}> Task : {item.text}</Text>
                                     <Text style={styles.text}>Created At : {item.timestamp}</Text>
                                     <Text style={styles.text}>Status : {item.isChecked ? 'Done' : 'Not Done'}</Text>
                                 </View>
@@ -219,11 +210,11 @@ const styles = StyleSheet.create(
             color: 'white',
             fontSize: 17,
             textAlign: 'center',
-            backgroundColor: '#2c3e50',
             padding: 10,
             margin: 3,
             borderWidth: 1,
             width: 250,
+            backgroundColor:'#2c3e50'
         },
     }
 );
