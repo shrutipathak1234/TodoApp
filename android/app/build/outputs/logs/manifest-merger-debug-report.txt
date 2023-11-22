@@ -1,0 +1,749 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fc45e6b5c1fd2e402a6f96d0b98dd423/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6e2d488807fea5b059754209fbd47ce2/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/f0f4d40175ebad38d456f2f728ef6f5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-gesture-handler] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-clipboard_clipboard] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-community/checkbox/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:lottie-react-native] /Users/shruti.pathak/Code/firstRNProject/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-date-picker] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-document-picker] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fs] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-pager-view] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/8584d5ad6647b42e670098aae615e315/transformed/jetified-react-android-0.71.14-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/1130fb02f1e51707212fdd70d17942bc/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.react:hermes-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/fa451026ede6c6b5cef2f6e2f532f5f3/transformed/jetified-hermes-android-0.71.14-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/shruti.pathak/.gradle/caches/transforms-3/872b4ad39b97409dee538386437d7f9a/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dae28cbb516d44b147c37aa4f146c633/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e929088bcfe59c1e46bede33f9584740/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4df4c10d10396cf9417aa6871bb9da56/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a1978fca7445d92f199720ab3ebd3c99/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/55a3c4bd10928f1d259c9fc55f33a3b6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/88aadb654fa6e010bf452687422e37d4/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d024d0b54fc9a94c514034977ceccfaa/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5c756c18760cd08538543870b0e6c332/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d4226e68cf7a33317bafd8940a6c9a23/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a433555c031ea6cc7fc452076e03a833/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shruti.pathak/.gradle/caches/transforms-3/a7318d696cd0ebbebd79be4e630138d1/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9a400d82720533c190aadb84b526493c/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dfd569cc24e56f4811f634954a81165a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6a40eae6f421ecf166a92284fd6889fc/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/1ba6a7012717337d46ef0654a8fe92b9/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6961ba3979e3fb6236fc58c2f2ab693b/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91843d0ee8894e11e85bd475a035e2eb/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/e25b956992cee63ef79ce1a529f72983/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/shruti.pathak/.gradle/caches/transforms-3/0a6f59d16e480b6f9fa226a9295ef092/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/shruti.pathak/.gradle/caches/transforms-3/f28ee5f9b85a74cf364fcf5d9cbc569d/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a2e9e74149612cca8ce02758987ca343/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/649a7ee8b1ee35ca6c4820062c258c61/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/82abd0e74ba14a41e717dcd746b45296/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91d1ceb3ab07df29dd0a31a98412792b/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4c21acdca3c27821aa82b15ce9d12067/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/3e8292054092afe83b4a85137dfe62ad/transformed/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c7259d04f4ce7899876a0a4252cff5a9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e063abafd89c9d674125dd1f5ae71264/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shruti.pathak/.gradle/caches/transforms-3/a9d27f1127da61272ff677f76f0c95b6/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dbc74741a7f2e19d1473056eb90f26a1/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a7e4ba5acee9d0e9931c63cff4079b7f/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/1c1f9c331581077e0706e404e7966cfb/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/74a02dd4d1354bdf8a01f44fdeeacf97/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fa93ee09e72350365625c4fdfb585348/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c106754a0eaa02e4a4c4d936f4c2b20d/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9650f6f1357730e39c39526941da10e5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91f6eecee276d07a1b4616fbf8c8e5ca/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/0d25ce6a32d6ab0312b8d1cbc9bd3470/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/fb09597f391a55e1162766103a5c793e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/4429724ba88e1a5dee5e9407f70b926e/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/7ea2bfa6ba40d92494c09b65556f2b14/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/3a7e9a330553bd75cda863f2196751f6/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/07215b4e64b2b838d9570e05cea3c015/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/71ca3ddf5854daf5c30337bd8f3a7ce5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/02fa5f9bfe4346b4346bfd44cc395174/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9f9e8a84643aa1bd285eb3f953491abf/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a0e16b8c49938e050ba340dc63bbaa68/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/3789e1d250cc59d50c99ac74a1a1f4fa/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ec997257aef5a5845703e36472771d86/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/0c0eef64d84374b6b7c42fc165897b13/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/c81181cfb8c0c7325ec18eb707cf3f73/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/41f3a2da80099d09d28a2fabb6cce564/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2dd97571cb1bea991e8be6586f91542e/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e06fd440bfcc29326d9e90e84fce2cef/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/24aa00099c604f7f4827acd75ca0eb14/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/8b95970bef9f2e6104014683a04257d9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d271d103ddacba5138c73bad17da7e50/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/cb356f5f73054cbb17b404794d6172d1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/shruti.pathak/.gradle/caches/transforms-3/0f35b03ed415ab16ea996caab256a460/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d5724df173c753ee8fe81f539122eaa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/259f3afb9677416c0228216c76f69e75/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e0106c8c9d61c1ddb8c65bdc8dc69f0d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/79f3a80d53a140d68807709609538a1f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/cd72f3891e17decbe893df65573dd451/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/09986fae7424a943440712608069715b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fdbc34064ad55d3c2a8827ae3e95b172/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/shruti.pathak/.gradle/caches/transforms-3/c683d3fbc32805753c1e0259f7d1c382/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:2:1-11:12
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/shruti.pathak/.gradle/caches/transforms-3/f586a59b4dc007d34d9f9fb0fe55b7c8/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:2:1-13:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ff0698592617348a487b5bc45f3fbfb1/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:2:1-15:12
+	package
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/f0f4d40175ebad38d456f2f728ef6f5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/f0f4d40175ebad38d456f2f728ef6f5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.facebook.react:react-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/8584d5ad6647b42e670098aae615e315/transformed/jetified-react-android-0.71.14-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/8584d5ad6647b42e670098aae615e315/transformed/jetified-react-android-0.71.14-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shruti.pathak/.gradle/caches/transforms-3/a7318d696cd0ebbebd79be4e630138d1/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shruti.pathak/.gradle/caches/transforms-3/a7318d696cd0ebbebd79be4e630138d1/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6961ba3979e3fb6236fc58c2f2ab693b/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6961ba3979e3fb6236fc58c2f2ab693b/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91843d0ee8894e11e85bd475a035e2eb/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91843d0ee8894e11e85bd475a035e2eb/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/e25b956992cee63ef79ce1a529f72983/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/e25b956992cee63ef79ce1a529f72983/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91d1ceb3ab07df29dd0a31a98412792b/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91d1ceb3ab07df29dd0a31a98412792b/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4c21acdca3c27821aa82b15ce9d12067/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4c21acdca3c27821aa82b15ce9d12067/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c7259d04f4ce7899876a0a4252cff5a9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c7259d04f4ce7899876a0a4252cff5a9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e063abafd89c9d674125dd1f5ae71264/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e063abafd89c9d674125dd1f5ae71264/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/1c1f9c331581077e0706e404e7966cfb/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/1c1f9c331581077e0706e404e7966cfb/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/c81181cfb8c0c7325ec18eb707cf3f73/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/c81181cfb8c0c7325ec18eb707cf3f73/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/shruti.pathak/.gradle/caches/transforms-3/f586a59b4dc007d34d9f9fb0fe55b7c8/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/shruti.pathak/.gradle/caches/transforms-3/f586a59b4dc007d34d9f9fb0fe55b7c8/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:7:7-39
+	tools:ignore
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:9:7-52
+	tools:targetApi
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:6:7-38
+activity#com.firstrnproject.MainActivity
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:12:7-23:18
+	android:label
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:launchMode
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:16:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:exported
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:18:9-32
+	android:configChanges
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:15:9-118
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:13:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fc45e6b5c1fd2e402a6f96d0b98dd423/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fc45e6b5c1fd2e402a6f96d0b98dd423/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6e2d488807fea5b059754209fbd47ce2/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6e2d488807fea5b059754209fbd47ce2/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/f0f4d40175ebad38d456f2f728ef6f5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/f0f4d40175ebad38d456f2f728ef6f5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-community/checkbox/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/shruti.pathak/Code/firstRNProject/node_modules/@react-native-community/checkbox/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/shruti.pathak/Code/firstRNProject/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/shruti.pathak/Code/firstRNProject/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/8584d5ad6647b42e670098aae615e315/transformed/jetified-react-android-0.71.14-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/8584d5ad6647b42e670098aae615e315/transformed/jetified-react-android-0.71.14-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/1130fb02f1e51707212fdd70d17942bc/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/1130fb02f1e51707212fdd70d17942bc/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.react:hermes-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/fa451026ede6c6b5cef2f6e2f532f5f3/transformed/jetified-hermes-android-0.71.14-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.14] /Users/shruti.pathak/.gradle/caches/transforms-3/fa451026ede6c6b5cef2f6e2f532f5f3/transformed/jetified-hermes-android-0.71.14-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/shruti.pathak/.gradle/caches/transforms-3/872b4ad39b97409dee538386437d7f9a/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/shruti.pathak/.gradle/caches/transforms-3/872b4ad39b97409dee538386437d7f9a/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dae28cbb516d44b147c37aa4f146c633/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dae28cbb516d44b147c37aa4f146c633/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e929088bcfe59c1e46bede33f9584740/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e929088bcfe59c1e46bede33f9584740/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4df4c10d10396cf9417aa6871bb9da56/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4df4c10d10396cf9417aa6871bb9da56/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a1978fca7445d92f199720ab3ebd3c99/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a1978fca7445d92f199720ab3ebd3c99/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/55a3c4bd10928f1d259c9fc55f33a3b6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/55a3c4bd10928f1d259c9fc55f33a3b6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/88aadb654fa6e010bf452687422e37d4/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/88aadb654fa6e010bf452687422e37d4/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d024d0b54fc9a94c514034977ceccfaa/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d024d0b54fc9a94c514034977ceccfaa/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5c756c18760cd08538543870b0e6c332/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5c756c18760cd08538543870b0e6c332/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d4226e68cf7a33317bafd8940a6c9a23/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d4226e68cf7a33317bafd8940a6c9a23/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a433555c031ea6cc7fc452076e03a833/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a433555c031ea6cc7fc452076e03a833/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shruti.pathak/.gradle/caches/transforms-3/a7318d696cd0ebbebd79be4e630138d1/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/shruti.pathak/.gradle/caches/transforms-3/a7318d696cd0ebbebd79be4e630138d1/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9a400d82720533c190aadb84b526493c/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9a400d82720533c190aadb84b526493c/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dfd569cc24e56f4811f634954a81165a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dfd569cc24e56f4811f634954a81165a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6a40eae6f421ecf166a92284fd6889fc/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6a40eae6f421ecf166a92284fd6889fc/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/1ba6a7012717337d46ef0654a8fe92b9/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/1ba6a7012717337d46ef0654a8fe92b9/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6961ba3979e3fb6236fc58c2f2ab693b/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/6961ba3979e3fb6236fc58c2f2ab693b/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91843d0ee8894e11e85bd475a035e2eb/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91843d0ee8894e11e85bd475a035e2eb/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/e25b956992cee63ef79ce1a529f72983/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/e25b956992cee63ef79ce1a529f72983/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/shruti.pathak/.gradle/caches/transforms-3/0a6f59d16e480b6f9fa226a9295ef092/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/shruti.pathak/.gradle/caches/transforms-3/0a6f59d16e480b6f9fa226a9295ef092/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/shruti.pathak/.gradle/caches/transforms-3/f28ee5f9b85a74cf364fcf5d9cbc569d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/shruti.pathak/.gradle/caches/transforms-3/f28ee5f9b85a74cf364fcf5d9cbc569d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a2e9e74149612cca8ce02758987ca343/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a2e9e74149612cca8ce02758987ca343/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/649a7ee8b1ee35ca6c4820062c258c61/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/649a7ee8b1ee35ca6c4820062c258c61/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/82abd0e74ba14a41e717dcd746b45296/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/82abd0e74ba14a41e717dcd746b45296/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91d1ceb3ab07df29dd0a31a98412792b/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91d1ceb3ab07df29dd0a31a98412792b/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4c21acdca3c27821aa82b15ce9d12067/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4c21acdca3c27821aa82b15ce9d12067/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/3e8292054092afe83b4a85137dfe62ad/transformed/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/shruti.pathak/.gradle/caches/transforms-3/3e8292054092afe83b4a85137dfe62ad/transformed/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c7259d04f4ce7899876a0a4252cff5a9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c7259d04f4ce7899876a0a4252cff5a9/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e063abafd89c9d674125dd1f5ae71264/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e063abafd89c9d674125dd1f5ae71264/transformed/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shruti.pathak/.gradle/caches/transforms-3/a9d27f1127da61272ff677f76f0c95b6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shruti.pathak/.gradle/caches/transforms-3/a9d27f1127da61272ff677f76f0c95b6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dbc74741a7f2e19d1473056eb90f26a1/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/dbc74741a7f2e19d1473056eb90f26a1/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a7e4ba5acee9d0e9931c63cff4079b7f/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a7e4ba5acee9d0e9931c63cff4079b7f/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/1c1f9c331581077e0706e404e7966cfb/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/1c1f9c331581077e0706e404e7966cfb/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/74a02dd4d1354bdf8a01f44fdeeacf97/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/74a02dd4d1354bdf8a01f44fdeeacf97/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fa93ee09e72350365625c4fdfb585348/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fa93ee09e72350365625c4fdfb585348/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c106754a0eaa02e4a4c4d936f4c2b20d/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/c106754a0eaa02e4a4c4d936f4c2b20d/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9650f6f1357730e39c39526941da10e5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9650f6f1357730e39c39526941da10e5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91f6eecee276d07a1b4616fbf8c8e5ca/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/91f6eecee276d07a1b4616fbf8c8e5ca/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/0d25ce6a32d6ab0312b8d1cbc9bd3470/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/0d25ce6a32d6ab0312b8d1cbc9bd3470/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/fb09597f391a55e1162766103a5c793e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/fb09597f391a55e1162766103a5c793e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/4429724ba88e1a5dee5e9407f70b926e/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/4429724ba88e1a5dee5e9407f70b926e/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/7ea2bfa6ba40d92494c09b65556f2b14/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/7ea2bfa6ba40d92494c09b65556f2b14/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/3a7e9a330553bd75cda863f2196751f6/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/3a7e9a330553bd75cda863f2196751f6/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/07215b4e64b2b838d9570e05cea3c015/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/07215b4e64b2b838d9570e05cea3c015/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/71ca3ddf5854daf5c30337bd8f3a7ce5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/71ca3ddf5854daf5c30337bd8f3a7ce5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/02fa5f9bfe4346b4346bfd44cc395174/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/02fa5f9bfe4346b4346bfd44cc395174/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9f9e8a84643aa1bd285eb3f953491abf/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/9f9e8a84643aa1bd285eb3f953491abf/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a0e16b8c49938e050ba340dc63bbaa68/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a0e16b8c49938e050ba340dc63bbaa68/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/3789e1d250cc59d50c99ac74a1a1f4fa/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/3789e1d250cc59d50c99ac74a1a1f4fa/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ec997257aef5a5845703e36472771d86/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ec997257aef5a5845703e36472771d86/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/0c0eef64d84374b6b7c42fc165897b13/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/0c0eef64d84374b6b7c42fc165897b13/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/c81181cfb8c0c7325ec18eb707cf3f73/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/c81181cfb8c0c7325ec18eb707cf3f73/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/41f3a2da80099d09d28a2fabb6cce564/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/41f3a2da80099d09d28a2fabb6cce564/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2dd97571cb1bea991e8be6586f91542e/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2dd97571cb1bea991e8be6586f91542e/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e06fd440bfcc29326d9e90e84fce2cef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e06fd440bfcc29326d9e90e84fce2cef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/24aa00099c604f7f4827acd75ca0eb14/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/24aa00099c604f7f4827acd75ca0eb14/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/8b95970bef9f2e6104014683a04257d9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/8b95970bef9f2e6104014683a04257d9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d271d103ddacba5138c73bad17da7e50/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d271d103ddacba5138c73bad17da7e50/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/cb356f5f73054cbb17b404794d6172d1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/cb356f5f73054cbb17b404794d6172d1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/shruti.pathak/.gradle/caches/transforms-3/0f35b03ed415ab16ea996caab256a460/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/shruti.pathak/.gradle/caches/transforms-3/0f35b03ed415ab16ea996caab256a460/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d5724df173c753ee8fe81f539122eaa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/d5724df173c753ee8fe81f539122eaa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/259f3afb9677416c0228216c76f69e75/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shruti.pathak/.gradle/caches/transforms-3/259f3afb9677416c0228216c76f69e75/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e0106c8c9d61c1ddb8c65bdc8dc69f0d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e0106c8c9d61c1ddb8c65bdc8dc69f0d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/79f3a80d53a140d68807709609538a1f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/79f3a80d53a140d68807709609538a1f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/cd72f3891e17decbe893df65573dd451/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/cd72f3891e17decbe893df65573dd451/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/09986fae7424a943440712608069715b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/09986fae7424a943440712608069715b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fdbc34064ad55d3c2a8827ae3e95b172/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shruti.pathak/.gradle/caches/transforms-3/fdbc34064ad55d3c2a8827ae3e95b172/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/shruti.pathak/.gradle/caches/transforms-3/c683d3fbc32805753c1e0259f7d1c382/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/shruti.pathak/.gradle/caches/transforms-3/c683d3fbc32805753c1e0259f7d1c382/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/shruti.pathak/.gradle/caches/transforms-3/f586a59b4dc007d34d9f9fb0fe55b7c8/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/shruti.pathak/.gradle/caches/transforms-3/f586a59b4dc007d34d9f9fb0fe55b7c8/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ff0698592617348a487b5bc45f3fbfb1/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ff0698592617348a487b5bc45f3fbfb1/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:14:5-81
+MERGED from [:react-native-fs] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-fs] /Users/shruti.pathak/Code/firstRNProject/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/shruti.pathak/Code/firstRNProject/android/app/src/debug/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/f0f4d40175ebad38d456f2f728ef6f5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/shruti.pathak/.gradle/caches/transforms-3/f0f4d40175ebad38d456f2f728ef6f5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:23:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/e47573c2c042ee8d02ce804fce1974c5/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:29:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:33:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:42:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:45:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:46:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:46:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:50:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/aba0f8a051a61bb59265052187d29fb7/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/shruti.pathak/.gradle/caches/transforms-3/ee31d024633606e050ee5d2a3d2e4f05/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/shruti.pathak/.gradle/caches/transforms-3/1b7692d446e588e60aaec34ec903c0a7/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/shruti.pathak/.gradle/caches/transforms-3/d4d2b6ba0b0a13cf33dd291f733fce4c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/shruti.pathak/.gradle/caches/transforms-3/5ce0e5c32638d46e3c37e9882599a007/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/shruti.pathak/.gradle/caches/transforms-3/a442a91b2c2cba7cee5b7be6274d420c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/1c1f9c331581077e0706e404e7966cfb/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shruti.pathak/.gradle/caches/transforms-3/1c1f9c331581077e0706e404e7966cfb/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shruti.pathak/.gradle/caches/transforms-3/2f5c9bcdd0a7546b816dc17998f71695/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shruti.pathak/.gradle/caches/transforms-3/63cd1d73188c3b0d1c8ad6380da18c8c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/shruti.pathak/.gradle/caches/transforms-3/569e12b49278f1c12be5eb05a39f0599/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/shruti.pathak/.gradle/caches/transforms-3/ad5c2db4837341c4d30e5a1ec6c2fa78/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.firstrnproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.firstrnproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shruti.pathak/.gradle/caches/transforms-3/4dc76dc898cb6e9bb9085111a3192b9c/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/shruti.pathak/.gradle/caches/transforms-3/a3da3db131efc30e1cb5ec9e6c17b237/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86

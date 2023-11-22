@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.firstrnproject.app-mergeDebugResources-37:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/shruti.pathak/.gradle/caches/transforms-3/f28ee5f9b85a74cf364fcf5d9cbc569d/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
