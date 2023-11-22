@@ -1,0 +1,9 @@
+{
+  "name": "react-native-simple-jsi",
+  "version": "0.0.0",
+  "description": "how to build a jsi module example library",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}

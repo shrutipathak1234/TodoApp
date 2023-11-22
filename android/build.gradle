@@ -10,6 +10,11 @@ buildscript {
         // We use NDK 23 which has both M1 support and is the side-by-side NDK version from AGP.
         ndkVersion = "23.1.7779620"
     }
+
+    project.ext.react = [
+    entryFile: "index.js",  // Specify the entry file for your JavaScript code
+    enableHermes: true,    // Enable Hermes, set to true for improved performance on Android
+]
     repositories {
         google()
         mavenCentral()

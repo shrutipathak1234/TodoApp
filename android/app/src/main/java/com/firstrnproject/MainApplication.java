@@ -10,6 +10,7 @@ import com.facebook.react.defaults.DefaultReactNativeHost;
 import com.facebook.soloader.SoLoader;
 import java.util.List;
 import com.airbnb.android.react.lottie.LottiePackage;
+import com.swmansion.reanimated.ReanimatedPackage;
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -26,6 +27,7 @@ public class MainApplication extends Application implements ReactApplication {
           List<ReactPackage> packages = new PackageList(this).getPackages();
 
           packages.add(new LottiePackage());
+          packages.add(new ReanimatedPackage());
 
           return packages;
         }
